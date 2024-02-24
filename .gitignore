@@ -13,9 +13,6 @@
 /.next/
 /out/
 
-# next.js config - local and github pages differs
-next.config.mjs
-
 # production
 /build
 
